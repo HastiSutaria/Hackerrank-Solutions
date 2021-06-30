@@ -3,7 +3,7 @@ import java.io.*;
 
 
 
-class Solution{
+class javadatatypes{
     public static void main(String []argh)
     {
 
