@@ -3,7 +3,7 @@ import java.io.*;
 
 
 
-class javadatatypes{
+class Javadatatypes{
     public static void main(String []argh)
     {
 
