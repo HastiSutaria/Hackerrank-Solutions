@@ -18,3 +18,4 @@
 | Introduction | Easy | [Java Date and time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Java-date-time.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Datetime.java) |
 | Introduction | Easy | [Java currency formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Java-currency-formatter.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Currencyformatter.java) |
 | Strings | Easy | [Java String Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Java-string-introduction.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Stringsintro.java) |
+| Strings | Easy | [Java Substring ](https://www.hackerrank.com/challenges/java-substring/problem) | [Java-substring.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Substring.java) |
