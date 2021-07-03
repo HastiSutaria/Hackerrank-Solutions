@@ -19,3 +19,6 @@
 | Introduction | Easy | [Java currency formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Java-currency-formatter.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Currencyformatter.java) |
 | Strings | Easy | [Java String Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Java-string-introduction.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Stringsintro.java) |
 | Strings | Easy | [Java Substring ](https://www.hackerrank.com/challenges/java-substring/problem) | [Java-substring.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Substring.java) |
+| Strings | Easy | [Java Substring comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Java-Substring-comparisons.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Substringcomparison.java)|
+| Strings | Easy | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Java-string-reverse.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Stringrev.java)|
+| Strings | Easy | [Java Anagrams ](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Java-Anagrams.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/JavaAnagram.java)|
