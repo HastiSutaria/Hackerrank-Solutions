@@ -24,8 +24,8 @@
 | Strings | Easy | [Java Anagrams ](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Java-Anagrams.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/JavaAnagram.java)|
 | Strings | Easy | [Java String Tokens]() | []() |
 | Strings | Easy | [Pattren Syntax Checker]() | []() |
-| Strings | Easy | [Java Regex]() | []() |
-| Strings | Easy | [Java Regex 2 Duplicate words]() | []() |
+| Strings | Medium | [Java Regex]() | []() |
+| Strings | Medium  | [Java Regex 2 Duplicate words]() | []() |
 | Strings | Easy | [Valid Username Regular Expression]() | []() |
-| Strings | Easy | [Tag Content Extractor ]() | []()|
+| Strings | Medium | [Tag Content Extractor ]() | []()|
 
