@@ -22,3 +22,10 @@
 | Strings | Easy | [Java Substring comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Java-Substring-comparisons.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Substringcomparison.java)|
 | Strings | Easy | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Java-string-reverse.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Stringrev.java)|
 | Strings | Easy | [Java Anagrams ](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Java-Anagrams.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/JavaAnagram.java)|
+| Strings | Easy | [Java String Tokens]() | []() |
+| Strings | Easy | [Pattren Syntax Checker]() | []() |
+| Strings | Easy | [Java Regex]() | []() |
+| Strings | Easy | [Java Regex 2 Duplicate words]() | []() |
+| Strings | Easy | [Valid Username Regular Expression]() | []() |
+| Strings | Easy | [Tag Content Extractor ]() | []()|
+
