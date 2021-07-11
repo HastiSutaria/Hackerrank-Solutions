@@ -22,10 +22,10 @@
 | Strings | Easy | [Java Substring comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Java-Substring-comparisons.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Substringcomparison.java)|
 | Strings | Easy | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)|[Java-string-reverse.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Stringrev.java)|
 | Strings | Easy | [Java Anagrams ](https://www.hackerrank.com/challenges/java-anagrams/problem)|[Java-Anagrams.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/JavaAnagram.java)|
-| Strings | Easy | [Java String Tokens]() | []() |
-| Strings | Easy | [Pattren Syntax Checker]() | []() |
-| Strings | Medium | [Java Regex]() | []() |
-| Strings | Medium  | [Java Regex 2 Duplicate words]() | []() |
-| Strings | Easy | [Valid Username Regular Expression]() | []() |
-| Strings | Medium | [Tag Content Extractor ]() | []()|
+| Strings | Easy | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [Java-String_tokens.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/StringTokens.java) |
+| Strings | Easy | [Pattren Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [Pattern-Syntax-Checker.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/PatternSyntaxChecker.java) |
+| Strings | Medium | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Java-Regex.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/JavaRegex.java) |
+| Strings | Medium  | [Java Regex 2 Duplicate words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [Java-Regex2_duplicate-words.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/DuplicateWords.java) |
+| Strings | Easy | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [Valid-Username.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/UsernameValidator.java) |
+| Strings | Medium | [Tag Content Extractor ](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [Tag-Content-Extractor.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/TagContentExtractor.java)|
 
