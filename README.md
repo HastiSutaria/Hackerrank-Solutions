@@ -31,3 +31,4 @@
 | Big Number | Medium | [Java BigDecimal ](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [Java-Big-Decimal.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Big%20Number/BigDecimal.java) |
 | Big Number | Easy | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Java-primality-test.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Big%20Number/PrimalityTest.java) |
 | Big Number | Easy | [ Java Big Integer ](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Java-BigInteger.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/Big%20Number/BigInteger.java) |
+| Object Oriented Programming | Easy | [Java Inheritance 1](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Java-Inheritance1.java](https://github.com/HastiSutaria/Java-Hackerrank-Solutions/blob/main/OOP/Inheritance1.java)|
