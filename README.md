@@ -1,4 +1,4 @@
-# Hackerrank-Solutions
+# HackerRank-Solutions
 
 # JAVA
 
