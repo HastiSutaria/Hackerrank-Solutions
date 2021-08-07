@@ -1,5 +1,42 @@
 # HackerRank-Solutions
 
+
+# 30 Days Of Code
+
+| Day | Difficulty | Score | Challenge | Solution |
+|:---:|:----------:|:-----:|:---------:|:--------:|
+| Day 0 | Easy | 30 | [Hello world]()| [Day00.java]()|
+| Day 1 | Easy | 30 | [DataTypes]()|[Day01.java]()|
+| Day 2 | Easy | 30 | [Operators]()|[Day02.java]()|
+| Day 3 | Easy | 30 | [Intro to Conditional Statements]()|[Day03.java]()|
+| Day 4 | Easy | 30 | [Class Vs. Instance]()|[Day04.java]()|
+| Day 5 | Easy | 30 | [Loops]()|[Day05.java]()|
+| Day 6 | Easy | 30 | [Lets Review]()|[Day06.java]()|
+| Day 7 | Easy | 30 | [Arrays]()|[Day07.java]()|
+| Day 8 | Easy | 30 | [Dictionaries and Maps]()|[Day08.java]()|
+| Day 9 | Easy | 30 | [Recursion3]()|[Day09.java]()|
+| Day 10 | Easy | 30 | [Binary Numbers]()|[Day10.java]()|
+| Day 11 | Easy | 30 | [2d Arrays]()|[Day11.java]()|
+| Day 12 | Easy | 30 | [Inheritance]()|[Day12.java]()|
+| Day 13 | Easy | 30 | [Abstract Classes]()|[Day13.java]()|
+| Day 14| Easy | 30 |[Scope]()|[Day14.java]()|
+| Day 15| Easy | 30 | [Linked lists]()|[Day15.java]()|
+| Day 16| Easy | 30 | [Exceptions-String to Integer]()|[Day16.java]()|
+| Day 17 | Easy | 30 | [More Exceptions]()|[Day17.java]()|
+| Day 18| Easy | 30 | [Queues and Stacks]()|[Day18.java]()|
+| Day 19| Easy | 30 | [Interfaces]()|[Day19.java]()|
+| Day 20 | Easy | 30 | [Sorting]()|[Day20.java]()|
+| Day 21 | Easy | 30 | [Generics]()|[Day21.java]()|
+| Day 22| Easy | 30 | [Binary Search Trees]()|[Day22.java]()|
+| Day 23| Easy | 30 | [BST Level-order traversal]()|[Day23.java]()|
+| Day 24| Easy | 30 | [More Linked Lists]()|[Day24.java]()|
+| Day 25| Medium | 30 | [Running Time and Complexity ]()|[Day25.java]()|
+| Day 26 | Easy | 30 | [Nested Logic]()|[Day26.java]()|
+| Day 27 | Easy | 30 | [Testing]()|[Day27.java]()|
+| Day 28| Medium | 30 | [RegEx, Patterns and Intro to Databases]()|[Day28.java]()|
+| Day 29| Medium | 30 | [Bitwise AND]()|[Day29.java]()|
+
+
 # JAVA
 
 | Subdomain | Difficulty | Challenge | Solution |
