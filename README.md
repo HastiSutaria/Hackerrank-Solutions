@@ -5,36 +5,36 @@
 
 | Day | Difficulty | Score | Challenge | Solution |
 |:---:|:----------:|:-----:|:---------:|:--------:|
-| Day 0 | Easy | 30 | [Hello world]()| [Day00.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day0.java)|
-| Day 1 | Easy | 30 | [DataTypes]()|[Day01.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day1.java)|
-| Day 2 | Easy | 30 | [Operators]()|[Day02.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day2.java)|
-| Day 3 | Easy | 30 | [Intro to Conditional Statements]()|[Day03.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day3.java)|
-| Day 4 | Easy | 30 | [Class Vs. Instance]()|[Day04.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day4.java)|
-| Day 5 | Easy | 30 | [Loops]()|[Day05.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day5.java)|
-| Day 6 | Easy | 30 | [Lets Review]()|[Day06.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day6.java)|
-| Day 7 | Easy | 30 | [Arrays]()|[Day07.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day7.java)|
-| Day 8 | Easy | 30 | [Dictionaries and Maps]()|[Day08.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day8.java)|
-| Day 9 | Easy | 30 | [Recursion3]()|[Day09.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day9.java)|
-| Day 10 | Easy | 30 | [Binary Numbers]()|[Day10.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day10.java)|
-| Day 11 | Easy | 30 | [2d Arrays]()|[Day11.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day11.java)|
-| Day 12 | Easy | 30 | [Inheritance]()|[Day12.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day12.java)|
-| Day 13 | Easy | 30 | [Abstract Classes]()|[Day13.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day13.java)|
-| Day 14| Easy | 30 |[Scope]()|[Day14.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day14.java)|
-| Day 15| Easy | 30 | [Linked lists]()|[Day15.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day15.java)|
-| Day 16| Easy | 30 | [Exceptions-String to Integer]()|[Day16.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day16.java)|
-| Day 17 | Easy | 30 | [More Exceptions]()|[Day17.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day17.java)|
-| Day 18| Easy | 30 | [Queues and Stacks]()|[Day18.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day18.java)|
-| Day 19| Easy | 30 | [Interfaces]()|[Day19.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day19.java)|
-| Day 20 | Easy | 30 | [Sorting]()|[Day20.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day20.java)|
-| Day 21 | Easy | 30 | [Generics]()|[Day21.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day21.java)|
-| Day 22| Easy | 30 | [Binary Search Trees]()|[Day22.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day22.java)|
-| Day 23| Easy | 30 | [BST Level-order traversal]()|[Day23.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day23.java)|
-| Day 24| Easy | 30 | [More Linked Lists]()|[Day24.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day24.java)|
-| Day 25| Medium | 30 | [Running Time and Complexity ]()|[Day25.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day25.java)|
-| Day 26 | Easy | 30 | [Nested Logic]()|[Day26.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day26.java)|
-| Day 27 | Easy | 30 | [Testing]()|[Day27.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day27.java)|
-| Day 28| Medium | 30 | [RegEx, Patterns and Intro to Databases]()|[Day28.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day28.java)|
-| Day 29| Medium | 30 | [Bitwise AND]()|[Day29.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day29.java)|
+| Day 0 | Easy | 30 | [Hello world](https://www.hackerrank.com/challenges/30-hello-world/problem)| [Day00.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day0.java)|
+| Day 1 | Easy | 30 | [DataTypes](https://www.hackerrank.com/challenges/30-data-types/problem)|[Day01.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day1.java)|
+| Day 2 | Easy | 30 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)|[Day02.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day2.java)|
+| Day 3 | Easy | 30 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|[Day03.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day3.java)|
+| Day 4 | Easy | 30 | [Class Vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)|[Day04.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day4.java)|
+| Day 5 | Easy | 30 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)|[Day05.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day5.java)|
+| Day 6 | Easy | 30 | [Lets Review](https://www.hackerrank.com/challenges/30-review-loop/problem)|[Day06.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day6.java)|
+| Day 7 | Easy | 30 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)|[Day07.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day7.java)|
+| Day 8 | Easy | 30 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|[Day08.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day8.java)|
+| Day 9 | Easy | 30 | [Recursion3](https://www.hackerrank.com/challenges/30-recursion/problem)|[Day09.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day9.java)|
+| Day 10 | Easy | 30 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|[Day10.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day10.java)|
+| Day 11 | Easy | 30 | [2d Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|[Day11.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day11.java)|
+| Day 12 | Easy | 30 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)|[Day12.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day12.java)|
+| Day 13 | Easy | 30 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|[Day13.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day13.java)|
+| Day 14| Easy | 30 |[Scope](https://www.hackerrank.com/challenges/30-scope/problem)|[Day14.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day14.java)|
+| Day 15| Easy | 30 | [Linked lists](https://www.hackerrank.com/challenges/30-linked-list/problem)|[Day15.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day15.java)|
+| Day 16| Easy | 30 | [Exceptions-String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|[Day16.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day16.java)|
+| Day 17 | Easy | 30 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|[Day17.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day17.java)|
+| Day 18| Easy | 30 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)|[Day18.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day18.java)|
+| Day 19| Easy | 30 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)|[Day19.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day19.java)|
+| Day 20 | Easy | 30 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)|[Day20.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day20.java)|
+| Day 21 | Easy | 30 | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)|[Day21.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day21.java)|
+| Day 22| Easy | 30 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)|[Day22.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day22.java)|
+| Day 23| Easy | 30 | [BST Level-order traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)|[Day23.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day23.java)|
+| Day 24| Easy | 30 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)|[Day24.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day24.java)|
+| Day 25| Medium | 30 | [Running Time and Complexity ](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)|[Day25.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day25.java)|
+| Day 26 | Easy | 30 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)|[Day26.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day26.java)|
+| Day 27 | Easy | 30 | [Testing](https://www.hackerrank.com/challenges/30-testing/problem)|[Day27.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day27.java)|
+| Day 28| Medium | 30 | [RegEx, Patterns and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)|[Day28.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day28.java)|
+| Day 29| Medium | 30 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)|[Day29.java](https://github.com/HastiSutaria/Hackerrank-Solutions/blob/main/30DaysOfCode/Day29.java)|
 
 
 # JAVA
